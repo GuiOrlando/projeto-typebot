@@ -1,0 +1,17 @@
+.typebot-button {
+  border-radius: 50px;
+}
+
+.typebot-toggle {
+  left: 1500px;
+  top: 650px;
+  z-index: 1050;
+  height: 70px;
+  width: 70px;
+}
+
+.typebot-container {
+  left: 80%;
+  width: 30%;
+  z-index: 1051;
+}
